@@ -1,0 +1,27 @@
+ body {
+  font-family: 'Poppins', sans-serif;
+ }
+ h1 {
+  font-size: 40px;
+ }
+ .header-image {
+  /* background-image: url(images/donation7.jpg); */
+  background: linear-gradient(rgba(0,0,0,0.6),rgba(0,0,0,0.3)), url(images/donation7.jpg);
+  height: 550px;
+  width: 100%;
+  background-repeat: no-repeat;
+  background: linear-gradient( gray );
+ }
+ .header-area{
+  text-align: center;
+  padding-top: 130px;
+ }
+ .header-text {
+  color: white;
+ }
+ .donate-button {
+  text-decoration: none;
+  color: white;
+  background-color: orangered;
+  padding: 10px 30px;
+ }
