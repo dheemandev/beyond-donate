@@ -24,4 +24,35 @@
   color: white;
   background-color: orangered;
   padding: 10px 30px;
+  border-radius: 5px;
  }
+
+ .hero-title{
+  text-align: center;
+ }
+ .price-area {
+  display: flex;
+  justify-content: center;
+  
+  
+ }
+ .price-iteam {
+   box-shadow: 10px 10px 40px gray;
+   margin-right: 20px;
+   padding-left: 10px;
+   padding-right: 10px;
+   
+  }
+  .other-amount-area {
+    margin-bottom: 50px;
+  }
+  hr {
+    width: 50%;
+    
+  }
+  .other-amount {
+    text-align: center;
+    
+  }
+  
+ 
