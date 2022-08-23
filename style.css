@@ -10,7 +10,7 @@
   height: 550px;
   width: 100%;
   background-repeat: no-repeat;
-  background: linear-gradient( gray );
+  
  }
  .header-area{
   text-align: center;
@@ -54,5 +54,29 @@
     text-align: center;
     
   }
-  
+
+  .donation-plan {
+    display: flex;
+    padding-left: 10%;
+    padding-right: 10%;
+    padding-top: 5%;
+
+  }
+  #food-family{
+    background-color: blanchedalmond;
+    margin-right: 20px;
+    padding: 20px;
+    
+  }
+  #shelter-family {
+    background-color: aquamarine;
+    margin-right: 20px;
+    padding: 20px;
+
+  }
+  #education-family {
+    background-color: cornflowerblue;
+    padding: 20px;
+  }
+
  
